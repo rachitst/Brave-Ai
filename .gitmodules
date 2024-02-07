@@ -1,0 +1,6 @@
+[submodule "Brave-Ai-Frontend"]
+	path = Brave-Ai-Frontend
+	url = https://github.com/rachitst/Brave-Ai-Frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rachitst/Brave-Ai-Frontend
